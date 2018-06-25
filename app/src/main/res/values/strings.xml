@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">San Marcos Fair</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Category name for Stars Forum [CHAR LIMIT=20] -->
+    <string name="category_starsForum">Stars</string>
+
+    <!-- Category name for Lake Forum [CHAR LIMIT=20] -->
+    <string name="category_lakeForum">Lake</string>
+
+    <!-- Category name for Cultural [CHAR LIMIT=20] -->
+    <string name="category_cultural">Cultural</string>
+
+    <!-- Category name for Sports [CHAR LIMIT=20] -->
+    <string name="category_sports">Sports</string>
+
+    <string name="Location">Location</string>
+
+    <string name="Info">Information</string>
+
+    <string name="April">April</string>
+    <string name="May">May</string>
+
+    <string name="event_name">event_name</string>
+    <string name="event_image">event_image</string>
+    <string name="event_day">event_day</string>
+    <string name="event_month">event_month</string>
+    <string name="event_day_letters">event_day_letters</string>
+
+    <!-- Category name for Expos [CHAR LIMIT=20] -->
+    <string name="category_expo">Expos</string>
+
+    <string name="event_info_text">\nA concert is a live music performance in front of an audience.
+        The performance may be by a single musician, sometimes then called a recital, or by a musical ensemble,
+        such as an orchestra, choir, or band. Concerts are held in a wide variety and size of settings,
+        from private houses and small nightclubs, dedicated concert halls, arenas and parks to large multipurpose buildings,
+        and even sports stadiums. Indoor concerts held in the largest venues are sometimes called arena concerts or
+        amphitheatre concerts. Informal names for a concert include show and gig. Regardless of the venue, musicians usually
+        perform on a stage. Concerts often require live event support with professional audio equipment.
+        Before recorded music, concerts provided the main opportunity to hear musicians play.</string>
+
+    <!-- String for ExpoFragment -->
+    <string name="pabellonT">Pabellon Turistico Artesanal</string>
+    <string name="pabellonA">Pabellon Artesanal</string>
+    <string name="pabellonM">Pabellon Mexico Artesanal</string>
+    <string name="expo_agropecuaria">Expo Agropecuaria</string>
+    <string name="pabellon_aguas">Pabellon Hecho en Aguascalientes</string>
+    <string name="expo_industrial">Expo Industrial</string>
+    <string name="pabellon_flor_real">Pabellon Flor Real</string>
+
+    <!-- String for EvenInfo -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <!-- String for SportsFragment -->
+    <string name="beach_volleyball_tour">Beach Volleyball Tour</string>
+    <string name="squash_national_tournament">Squash National Tournament</string>
+    <string name="basketball_national_tournament">Basketball National Tournament</string>
+    <string name="tennis_annual_tournament">Tennis Annual Tournament</string>
+    <string name="ferrocarrilero">Ferrocarrilero y Sta. Bikini</string>
+    <string name="half_marathon">Half Marathon</string>
+    <string name="frontenis_tournament">Frontenis Tournament</string>
+    <string name="golf_tournament">Golf Tournament Pulgas Pandas</string>
+    <string name="fishing_tournament">Fishing Tournament</string>
+    <string name="archery_tournament">Archery Tournament</string>
+    <string name="fishing_tournament_san_marcos">Fishing Tournament San Marcos</string>
+    <string name="international_box">International Box</string>
+    <string name="lucha_libre">Lucha Libre La SanMarqueña</string>
+    <string name="san_marcos_race">San Marcos Race</string>
+
+    <!-- String for SportsFragment -->
+    <string name="conjunto_coral">Conjunto Coral</string>
+    <string name="orquesta_sinfonica_juvenil">Orquesta Sinfonica Juvenil</string>
+    <string name="ensamble_de_guitarras">Ensamble de Guitarras</string>
+    <string name="quinteto_villanueva">Quinteto Villanueva</string>
+    <string name="quinteto_saturnino">Quinteto Saturnino Herran</string>
+    <string name="orquesta_coro_camara">Orquesta y Coro de Camara</string>
+    <string name="orquesta_tipica_burros">Orquesta Tipica Los Burros</string>
+
+    <!-- String for LakeForumFragment -->
+    <string name="jazz_company">The Jazz Company</string>
+    <string name="hello_seahorse">Hello SeaHorse</string>
+    <string name="paco_maria">Paco de Maria</string>
+    <string name="tropikal_forever">Tropikal Forever</string>
+    <string name="union">La Union</string>
+    <string name="milonga_brava_nomada">Milonga Brava Nomada</string>
+    <string name="sole_gimenez">Sole Gimenez</string>
+    <string name="haydee_milanes">Haydee Milanes and Rosalia Leon</string>
+    <string name="pedro_aznar">Pedro Aznar</string>
+    <string name="antonio_sanchez">Antonio Sanchez and Migration</string>
+    <string name="banda_el_mexicano">Mi Banda El Mexicano</string>
+    <string name="cohiba_orquesta">Cohiba Orquesta from Cuba</string>
+    <string name="orquesta_perez_prado">Orquesta Perez Prado and Ruben Albarran</string>
+    <string name="pedro_infante">Pedro Infante Tributo Sinfonico</string>
+    <string name="classic_dance">Classic Dance</string>
+    <string name="grupo_florclorico">Grupo Florclorico</string>
+    <string name="patita_de_perro">Patita de Perro y tu Rockcito</string>
+    <string name="timothy_brownie">Timothy Brownie</string>
+    <string name="capicua">Capicua</string>
+    <string name="festival_metal">Festival de Metal</string>
+    <string name="bowie_rock_sinfonico">Bowie Rock Sinfonico OSA</string>
+    <string name="ara_malikian">Ara Malikian</string>
+    <string name="jarabe_palo">Jarabe de Palo</string>
+
+    <!-- String for StarsForumFragment -->
+    <string name="ricardo_montaner">Ricardo Montaner</string>
+    <string name="kabah">Kabah</string>
+    <string name="juanes">Juanes</string>
+    <string name="zoe">Zoe</string>
+    <string name="cristian_castro">Cristian Castro</string>
+    <string name="alex_syntek">Alex Syntek</string>
+    <string name="bunbury">Bunbury</string>
+    <string name="intocable">Intocable</string>
+    <string name="ana_torroja">Ana Torroja</string>
+    <string name="garibaldi">Garibaldi</string>
+    <string name="maria_jose">Maria Jose</string>
+    <string name="ov7">OV7</string>
+    <string name="sonora_santanita">Sonora Santanita</string>
+    <string name="kinky">Kinky</string>
+    <string name="caifanes">Caifanes</string>
+    <string name="lila_downs">Lila Downs</string>
+    <string name="lucha_libre_stars">Lucha Libre</string>
+    <string name="molotov">Molotov</string>
+    <string name="la_adictiva">La Adictiva</string>
+    <string name="yuridia">Yuridia</string>
+    <string name="coque_muniz">Coque Muniz</string>
+    <string name="francisco_cespedes">Francisco Cespedes</string>
+    <string name="carlos_cuevas">Carlos Cuevas</string>
+    <string name="manuel_turizo">Manuel Turizo</string>
+    <string name="ilse">Ilse</string>
+    <string name="ivonne">Ivonne</string>
+    <string name="mimy">Mimy</string>
+    <string name="los_angeles_azules">Los angeles azules</string>
+
+</resources>

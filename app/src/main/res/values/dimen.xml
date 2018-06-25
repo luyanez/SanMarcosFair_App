@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="size_16dp">16dp</dimen>
+    <dimen name="margin_top">24dp</dimen>
+    <dimen name="margin_top_small">10dp</dimen>
+    <dimen name="height">250dp</dimen>
+    <dimen name="height_big">350dp</dimen>
+    <dimen name="height_44dp">44dp</dimen>
+    <dimen name="image_list">24dp</dimen>
+</resources>

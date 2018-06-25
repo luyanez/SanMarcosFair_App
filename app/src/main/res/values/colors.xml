@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5ecac3</color>
+    <color name="colorPrimaryDark">#347784</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="primary_color">#5ecac3</color>
+
+
+    <color name="category_lakeForum">#ea5176</color>
+    <color name="category_expos">#8e324d</color>
+    <color name="category_sports">#256195</color>
+    <color name="category_cultural">#21525c</color>
+    <color name="category_starsForum">#482252</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+</resources>
